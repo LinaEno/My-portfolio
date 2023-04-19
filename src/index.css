@@ -13,3 +13,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #00ff40;
+}
+
+/* .container {
+  height: 100vh;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+
+  @media screen and (min-width: 480px) {
+    width: 480px;
+  }
+
+  @media screen and (min-width: 768px) {
+    width: 90%;
+  }
+} */
+
+.title {
+  position: absolute;
+  z-index: 5;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+  font-weight: 700;
+  font-size: 96px;
+  color: #fff;
+}
