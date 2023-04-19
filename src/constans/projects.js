@@ -52,11 +52,12 @@ export const projects = [
   {
     id: 6,
     title: 'Gym fit',
-    description: '',
+    description:
+      'Gym fit is a React-based project that uses @mui/material, react-horizontal-scrolling-menu, and axios technologies. It features a variety of exercises for different muscle groups that can be searched by name or by selecting a specific body part (such as chest, back, or legs). Each exercise has a preview, and when selected, displays a full description, along with similar exercises for the same muscle groups and links to real videos featuring those exercises on YouTube.',
     preview_image: '',
     technologies: [],
-    code: 'https://github.com/LinaEno/js-project-cyborgs',
-    site: 'https://linaeno.github.io/js-project-cyborgs/index.html',
+    code: 'https://github.com/LinaEno/gym_fit',
+    site: 'https://linaeno.github.io/gym_fit/',
   },
   {
     id: 7,
