@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { Pannellum } from 'pannellum-react';
 
-import fantasyNight from '../img/realistic_mountains_forest_sunset_river.jpg';
-import fantasyCave from '../img/modern_computer_animation_mountains_forest_sunse (1).jpg';
+import fantasyNight from '../img/fantasy_lands_forest_night.jpg';
+import fantasyCave from '../img/fantasy_lands_forest_night_river.jpg';
 
 const Home = () => {
   const [currentScene, setCurrentScene] = useState(fantasyNight);

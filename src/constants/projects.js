@@ -3,7 +3,7 @@ import SlimMom from '../img/slim-mom.png';
 import Weather from '../img/weather.png';
 import Filmoteka from '../img/filmoteka.png';
 import Tasks from '../img/tasks.png';
-import Youtube from '../img/youtube.png';
+import Youtube from '../img/youtube-clone.png';
 import Cocktails from '../img/Cocktails.png';
 
 export const projects = [
