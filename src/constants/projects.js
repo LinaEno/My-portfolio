@@ -85,4 +85,14 @@ export const projects = [
     code: 'https://github.com/LinaEno/fruit-game',
     site: 'https://linaeno.github.io/fruit-game/',
   },
+  {
+    id: 9,
+    title: 'Cocktails',
+    description:
+      'The game is called "Fruits Game" and is built using React. The game board consists of an 8x8 grid with six different types of fruits appearing randomly. The objective of the game is to match three or four fruits of the same type in a row, earning points as the matched fruits disappear and new ones appear on the board.',
+    preview_image: '',
+
+    code: 'https://github.com/LinaEno/fruit-game',
+    site: 'https://linaeno.github.io/fruit-game/',
+  },
 ];
