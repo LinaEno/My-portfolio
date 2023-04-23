@@ -14,6 +14,12 @@ const Home = () => {
           Welcome to <br />
           My Portfolio
         </h1>
+        <a
+          className="mainBtn"
+          href="https://drive.google.com/file/d/1kzQhu1PFPimiE95XF7YXzP89Ee_8h-fC/view?usp=sharing"
+        >
+          Download CV
+        </a>
         <Pannellum
           width="100%"
           height="100%"
