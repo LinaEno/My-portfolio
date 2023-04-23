@@ -3,6 +3,8 @@ import SlimMom from '../img/slim-mom.png';
 import Weather from '../img/weather.png';
 import Filmoteka from '../img/filmoteka.png';
 import Tasks from '../img/tasks.png';
+import Youtube from '../img/youtube.png';
+import Cocktails from '../img/Cocktails.png';
 
 export const projects = [
   {
@@ -40,7 +42,7 @@ export const projects = [
     title: 'Youtube Clone',
     description:
       'Youtube clone is a simple web application built using React, @mui/material, axios, react-player, and react-router-dom. It allows users to search for videos and channels on Youtube by title and view the results on the app. The app also allows users to watch videos directly on the app using the React Player component. The interface is simple and intuitive, making it easy for users to navigate and find the content they are looking for on Youtube.',
-    preview_image: '',
+    preview_image: Youtube,
 
     code: 'https://github.com/LinaEno/youtube_clone',
     site: 'https://linaeno.github.io/youtube_clone/',
@@ -89,10 +91,10 @@ export const projects = [
     id: 9,
     title: 'Cocktails',
     description:
-      'The game is called "Fruits Game" and is built using React. The game board consists of an 8x8 grid with six different types of fruits appearing randomly. The objective of the game is to match three or four fruits of the same type in a row, earning points as the matched fruits disappear and new ones appear on the board.',
-    preview_image: '',
+      'This project was made using vanilla JavaScript. On this site, you can find your favorite cocktails or ingredients, save them to your favorites, or pick up something new for yourself using a convenient search.',
+    preview_image: Cocktails,
 
-    code: 'https://github.com/LinaEno/fruit-game',
-    site: 'https://linaeno.github.io/fruit-game/',
+    code: 'https://github.com/LinaEno/Cocktails',
+    site: 'https://linaeno.github.io/Cocktails/',
   },
 ];
