@@ -2,7 +2,9 @@ import { useState } from 'react';
 import { Pannellum } from 'pannellum-react';
 
 import fantasyNight from '../img/fantasy_lands_forest_night.jpg';
-import fantasyCave from '../img/fantasy_lands_forest_night_river.jpg';
+import fantasyRiver from '../img/fantasy_lands_forest_night_river.jpg';
+import fantasyNightMobile from '../img/fantasy_lands_forest_night-m.jpg';
+import fantasyRiverMobile from '../img/fantasy_lands_forest_night_river m.jpg';
 import { Default, Mobile } from 'components/Media/Media';
 
 const Home = () => {
@@ -33,7 +35,6 @@ const Home = () => {
             compass={false}
             showZoomCtrl={false}
             mouseZoom={false}
-            scale={0.6}
             onLoad={() => {
               console.log('panorama loaded');
             }}
@@ -44,7 +45,9 @@ const Home = () => {
               yaw={-120}
               handleClick={(evt, name) =>
                 setCurrentScene(
-                  currentScene !== fantasyNight ? fantasyNight : fantasyCave
+                  currentScene !== fantasyNightMobile
+                    ? fantasyNightMobile
+                    : fantasyRiverMobile
                 )
               }
             />
@@ -72,7 +75,7 @@ const Home = () => {
               yaw={-120}
               handleClick={(evt, name) =>
                 setCurrentScene(
-                  currentScene !== fantasyNight ? fantasyNight : fantasyCave
+                  currentScene !== fantasyNight ? fantasyNight : fantasyRiver
                 )
               }
             />
