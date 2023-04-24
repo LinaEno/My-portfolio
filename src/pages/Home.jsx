@@ -18,6 +18,8 @@ const Home = () => {
           My Portfolio
         </h1>
         <a
+          target="_blank"
+          rel="noreferrer"
           className="mainBtn"
           href="https://drive.google.com/file/d/1kzQhu1PFPimiE95XF7YXzP89Ee_8h-fC/view?usp=sharing"
         >
