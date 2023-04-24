@@ -3,8 +3,8 @@ import { Pannellum } from 'pannellum-react';
 
 import fantasyNight from '../img/fantasy_lands_forest_night.jpg';
 import fantasyRiver from '../img/fantasy_lands_forest_night_river.jpg';
-import fantasyNightMobile from '../img/fantasy_lands_forest_night-m.jpg';
-import fantasyRiverMobile from '../img/fantasy_lands_forest_night_river m.jpg';
+import fantasyNightMobile from '../img/fantasy_lands_forest_night 2k.jpg';
+import fantasyRiverMobile from '../img/fantasy_lands_forest_night_river 2k.jpg';
 import { Default, Mobile } from 'components/Media/Media';
 
 const Home = () => {
