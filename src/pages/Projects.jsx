@@ -28,10 +28,20 @@ const Projects = () => {
                     <p className="cardInfo">{description}</p>
                   </div>
                   <div className="utilityList">
-                    <a href={code} className="externalLinks">
+                    <a
+                      href={code}
+                      className="externalLinks"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       Code
                     </a>
-                    <a href={site} className="externalLinks">
+                    <a
+                      href={site}
+                      className="externalLinks"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       Site
                     </a>
                   </div>

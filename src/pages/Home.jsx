@@ -30,7 +30,7 @@ const Home = () => {
           autoRotate={-5}
           compass={true}
           showZoomCtrl={false}
-          mouseZoom={false}
+          mouseZoom={true}
           onLoad={() => {
             console.log('panorama loaded');
           }}
