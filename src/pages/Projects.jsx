@@ -15,7 +15,7 @@ const Projects = () => {
                   <div>
                     <div className="imgWrapper">
                       <img
-                        width="500px"
+                        width="101%"
                         src={preview_image}
                         alt="project"
                         className="img"
