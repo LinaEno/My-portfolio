@@ -5,6 +5,7 @@ import Filmoteka from '../img/filmoteka.png';
 import Tasks from '../img/tasks.png';
 import Youtube from '../img/youtube-clone.png';
 import Cocktails from '../img/Cocktails.png';
+import FruitGame from '../img/fruit-game.png';
 
 export const projects = [
   {
@@ -82,7 +83,7 @@ export const projects = [
     title: 'Fruit game',
     description:
       'The game is called "Fruits Game" and is built using React. The game board consists of an 8x8 grid with six different types of fruits appearing randomly. The objective of the game is to match three or four fruits of the same type in a row, earning points as the matched fruits disappear and new ones appear on the board.',
-    preview_image: '',
+    preview_image: FruitGame,
 
     code: 'https://github.com/LinaEno/fruit-game',
     site: 'https://linaeno.github.io/fruit-game/',
