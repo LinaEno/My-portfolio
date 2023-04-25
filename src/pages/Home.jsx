@@ -3,8 +3,7 @@ import { Pannellum } from 'pannellum-react';
 
 import fantasyNight from '../img/fantasy_lands_forest_night.jpg';
 import fantasyRiver from '../img/fantasy_lands_forest_night_river.jpg';
-import fantasyNightMobile from '../img/fantasy_lands_forest_night 2k.jpg';
-import fantasyRiverMobile from '../img/fantasy_lands_forest_night_river 2k.jpg';
+
 import { Default, Mobile } from 'components/Media/Media';
 
 const Home = () => {
@@ -26,35 +25,10 @@ const Home = () => {
           Download CV
         </a>
         <Mobile>
-          <Pannellum
-            width="100%"
-            height="100%"
-            image={currentScene}
-            yaw={300}
-            hfov={110}
-            autoLoad
-            autoRotate={-5}
-            compass={false}
-            scale={0.5}
-            showZoomCtrl={false}
-            mouseZoom={false}
-            onLoad={() => {
-              console.log('panorama loaded');
-            }}
-          >
-            <Pannellum.Hotspot
-              type="custom"
-              pitch={-10}
-              yaw={-120}
-              handleClick={(evt, name) =>
-                setCurrentScene(
-                  currentScene !== fantasyNightMobile
-                    ? fantasyNightMobile
-                    : fantasyRiverMobile
-                )
-              }
-            />
-          </Pannellum>
+          <div className="block"></div>
+          <div className="clouds">
+            <div className="cloudsWrapper cloudImg"></div>
+          </div>
         </Mobile>
         <Default>
           <Pannellum
