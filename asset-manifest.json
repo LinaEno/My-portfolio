@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/My-portfolio/static/css/main.d2ab53d2.css",
-    "main.js": "/My-portfolio/static/js/main.18d85953.js",
-    "static/js/507.8675828d.chunk.js": "/My-portfolio/static/js/507.8675828d.chunk.js",
+    "main.js": "/My-portfolio/static/js/main.1a49ba67.js",
+    "static/js/611.b9a3bca6.chunk.js": "/My-portfolio/static/js/611.b9a3bca6.chunk.js",
     "static/js/899.26d0b490.chunk.js": "/My-portfolio/static/js/899.26d0b490.chunk.js",
     "static/css/643.3327a95f.chunk.css": "/My-portfolio/static/css/643.3327a95f.chunk.css",
     "static/js/643.a03a6edb.chunk.js": "/My-portfolio/static/js/643.a03a6edb.chunk.js",
@@ -13,8 +13,8 @@
     "static/media/weather.png": "/My-portfolio/static/media/weather.fecc6962410dfc99ac45.png",
     "static/media/Cocktails.png": "/My-portfolio/static/media/Cocktails.dff57f8c2d480c91ad1e.png",
     "static/media/slim-mom.png": "/My-portfolio/static/media/slim-mom.a3b28e157cca130c69d9.png",
+    "static/media/fruit-game2.png": "/My-portfolio/static/media/fruit-game2.62d4fc882fa7868eeaff.png",
     "static/media/tasks.png": "/My-portfolio/static/media/tasks.4dc4f334c1c4dc5ac93a.png",
-    "static/media/fruit-game.png": "/My-portfolio/static/media/fruit-game.cfc205a1b24b8337f1f9.png",
     "static/media/wallet.png": "/My-portfolio/static/media/wallet.723121a24bb9aa783460.png",
     "index.html": "/My-portfolio/index.html",
     "static/media/sprites.svg": "/My-portfolio/static/media/sprites.c08944fed399e84633d0.svg",
@@ -23,14 +23,14 @@
     "static/media/background.svg": "/My-portfolio/static/media/background.73c746e88409ccb4b512.svg",
     "static/media/compass.svg": "/My-portfolio/static/media/compass.0f193cd39061ea43cc46.svg",
     "main.d2ab53d2.css.map": "/My-portfolio/static/css/main.d2ab53d2.css.map",
-    "main.18d85953.js.map": "/My-portfolio/static/js/main.18d85953.js.map",
-    "507.8675828d.chunk.js.map": "/My-portfolio/static/js/507.8675828d.chunk.js.map",
+    "main.1a49ba67.js.map": "/My-portfolio/static/js/main.1a49ba67.js.map",
+    "611.b9a3bca6.chunk.js.map": "/My-portfolio/static/js/611.b9a3bca6.chunk.js.map",
     "899.26d0b490.chunk.js.map": "/My-portfolio/static/js/899.26d0b490.chunk.js.map",
     "643.3327a95f.chunk.css.map": "/My-portfolio/static/css/643.3327a95f.chunk.css.map",
     "643.a03a6edb.chunk.js.map": "/My-portfolio/static/js/643.a03a6edb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2ab53d2.css",
-    "static/js/main.18d85953.js"
+    "static/js/main.1a49ba67.js"
   ]
 }
