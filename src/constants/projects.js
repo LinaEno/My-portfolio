@@ -5,7 +5,7 @@ import Filmoteka from '../img/filmoteka.png';
 import Tasks from '../img/tasks.png';
 import Youtube from '../img/youtube-clone.png';
 import Cocktails from '../img/Cocktails.png';
-import FruitGame from '../img/fruit-game.png';
+import FruitGame from '../img/fruit-game2.png';
 
 export const projects = [
   {
