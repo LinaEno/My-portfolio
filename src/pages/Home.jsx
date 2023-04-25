@@ -35,7 +35,7 @@ const Home = () => {
             autoLoad
             autoRotate={-5}
             compass={false}
-            scale={2}
+            scale={0.5}
             showZoomCtrl={false}
             mouseZoom={false}
             onLoad={() => {
