@@ -6,10 +6,10 @@ import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/My-portfolio/">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
-//basename="/My-portfolio/"
+//
