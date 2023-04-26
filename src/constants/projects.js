@@ -6,6 +6,7 @@ import Tasks from '../img/tasks.png';
 import Youtube from '../img/youtube-clone.png';
 import Cocktails from '../img/Cocktails.png';
 import FruitGame from '../img/fruit-game2.png';
+import Fit from '../img/fit.png';
 
 export const projects = [
   {
@@ -63,7 +64,7 @@ export const projects = [
     title: 'Gym fit',
     description:
       'Gym fit is a React-based project that uses @mui/material, react-horizontal-scrolling-menu, and axios technologies. It features a variety of exercises for different muscle groups that can be searched by name or by selecting a specific body part (such as chest, back, or legs). Each exercise has a preview, and when selected, displays a full description, along with similar exercises for the same muscle groups and links to real videos featuring those exercises on YouTube.',
-    preview_image: '',
+    preview_image: Fit,
 
     code: 'https://github.com/LinaEno/gym_fit',
     site: 'https://linaeno.github.io/gym_fit/',
