@@ -7,8 +7,30 @@ import Youtube from '../img/youtube-clone.png';
 import Cocktails from '../img/Cocktails.png';
 import FruitGame from '../img/fruit-game2.png';
 import Fit from '../img/fit.png';
+import Shoe from '../img/Shoe.png';
+import Hounter from '../img/Hounter.png';
 
 export const projects = [
+  {
+    id: 0,
+    title: 'Shoe haven',
+    description:
+      'Shoe haven is a commercial project built using React, Commerce.js and Stripe.js',
+    preview_image: Shoe,
+
+    code: 'https://github.com/LinaEno/store',
+    site: 'https://store-zeta.vercel.app/',
+  },
+  {
+    id: 10,
+    title: 'Hounter',
+    description:
+      'Hounter is a simple adaptive web application for a real estate agency built using React, styled-components and react-slick. ',
+    preview_image: Hounter,
+
+    code: 'https://github.com/LinaEno/Test-task',
+    site: 'https://test-task-linaeno.vercel.app/',
+  },
   {
     id: 1,
     title: 'Wallet',

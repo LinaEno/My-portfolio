@@ -6,7 +6,9 @@ import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="/My-portfolio/">
+    <BrowserRouter
+      // basename="/My-portfolio/"
+    >
       <App />
     </BrowserRouter>
   </React.StrictMode>,
